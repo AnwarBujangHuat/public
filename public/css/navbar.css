@@ -1,0 +1,137 @@
+.image .heading {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+.image p {
+    text-align: center;
+    padding: 20px 60px;
+}
+.image p .btn {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 1.2em;
+}
+.image p .btn:hover {
+    color: #FF0000;
+    border-color: #FF0000;
+}
+
+.navbar {
+    height: 80px;
+    background-color:rgba(255,255,255,.60);
+    border: none;
+    color: white;
+    z-index: 100;
+    transition: background-color 1s ease 0s;
+}
+
+.navbar-default .navbar-brand {
+    margin-top: 10px;
+    color: white;
+}
+.navbar-default .navbar-brand:hover {
+    color: #FF0000;
+    border: 1px solid #FF0000;
+}
+.navbar-default .navbar-nav > li > a {
+    color: white;
+    margin: 10px 5px 5px 5px;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:active,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #ffffff;
+    border: 1px solid #FF0000;
+}
+.navbar-default .navbar-nav > li > a:visited {
+    color: #FF0000;
+    text-decoration: none;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #FF0000;
+}
+.navbar-default .navbar-toggle {
+    border-color: #FF0000;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    color: #FF0000;
+    background-color: #FF0000;
+}
+.navbar-default .navbar-collapse.collapse.in ul {
+    background-color: #ffffff;
+}
+
+/* Solid class attached on scroll past first section */
+.navbar.solid {
+    background-color: #ffffff;
+    transition: background-color 1s ease 0s;
+    box-shadow: 0 0 4px grey;
+}
+.navbar.solid .navbar-brand {
+    color: #FF0000;
+    transition: color 1s ease 0s;
+}
+.navbar.solid .navbar-nav > li > a {
+    color: #FF0000;
+    transition: color 1s ease 0s;
+}
+
+.about {
+    background-color: #FF0000;
+    color: #ffffff;
+    height: 600px;
+    text-align: center;
+    margin-top: -20px;
+}
+.about h2 {
+    padding-top: 220px;
+}
+.about p {
+    padding: 20px 80px;
+}/* * {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+ */
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+}
