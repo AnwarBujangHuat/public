@@ -14,24 +14,33 @@
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
-                <div class="item active" style="width: 100%">
-                    <img src="https://media2.malaymail.com/uploads/articles/2019/2019-10/2019-10-04T082820Z_1699761772_RC1950F7A050_RTRMADP_3_MALAYSIA-BUSINESS.JPG" alt="Chania">
+                <div class="item active">
+                    <img src="http://photos.wikimapia.org/p/00/01/52/90/65_big.jpg" style="
+                    object-fit: cover; /* Do not scale the image */
+                    object-position: top; /* Center the image within the element */
+                    width:100%; display: inline-block; height: 900px">
                     <div class="carousel-caption">
                         <h3>Los Angeles</h3>
                         <p>LA is always so much fun!</p>
                     </div>
                 </div>
 
-                <div class="item">
-                    <img src="https://photos.wikimapia.org/p/00/06/67/12/87_big.jpg" alt="Chicago">
+                <div class="item" >
+                    <img src="http://www.huntkloffice.com/wp-content/uploads/2018/03/2-22.jpg" style="
+                    object-fit: cover; /* Do not scale the image */
+                    object-position: top; /* Center the image within the element */
+                    width:100%; display: inline-block; height: 900px">
                     <div class="carousel-caption">
                         <h3>Chicago</h3>
                         <p>Thank you, Chicago!</p>
                     </div>
                 </div>
 
-                <div class="item">
-                    <img src="https://photos.wikimapia.org/p/00/06/67/12/87_big.jpg" alt="New York">
+                <div class="item" >
+                    <img src="https://live.staticflickr.com/3691/8754073102_6a2123e210_b.jpg" style="
+                    object-fit: cover; /* Do not scale the image */
+                    object-position: top; /* Center the image within the element */
+                    width:100%; display: inline-block; height: 900px">
                     <div class="carousel-caption">
                         <h3>New York</h3>
                         <p>We love the Big Apple!</p>
@@ -65,6 +74,7 @@
     <h2>Main Description</h2>
     <p>Roll on the floor purring your whiskers off intrigued by the shower burrow under covers, and play time, rub face on everything, intently sniff hand, or pelt around the house and up and down stairs chasing phantoms. Attack feet. Damn that dog shake treat bag under the bed drink water out of the faucet for lick butt love to play with owner's hair tie. Swat at dog give attitude.</p>
 </div>
+
 <script>
     $(function () {
         $('[data-toggle="tooltip"]').tooltip()
