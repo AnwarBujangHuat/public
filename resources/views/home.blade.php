@@ -13,7 +13,7 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="http://photos.wikimapia.org/p/00/01/52/90/65_big.jpg" style="
+                    <img src="https://www.publicbankgroup.com/CMSPages/GetFile.aspx?guid=c79d77f6-6779-4025-b83a-e937bce893f5" style="
                     filter: brightness(90%);
                     object-fit: cover; /* Do not scale the image */
                     object-position: top; /* Center the image within the element */
@@ -27,7 +27,7 @@
                 </div>
 
                 <div class="item" >
-                    <img src="http://www.huntkloffice.com/wp-content/uploads/2018/03/2-22.jpg" style="
+                    <img src="https://www.publicbankgroup.com/CMSPages/GetFile.aspx?guid=85398e62-5c20-43f9-8f2c-6a2b42b9259a" style="
                     filter: brightness(90%);
                     object-fit: cover; /* Do not scale the image */
                     object-position: top; /* Center the image within the element */
@@ -42,7 +42,7 @@
                 </div>
 
                 <div class="item" >
-                    <img src="https://live.staticflickr.com/3691/8754073102_6a2123e210_b.jpg" style="
+                    <img src="https://www.publicbankgroup.com/CMSPages/GetFile.aspx?guid=a3287894-0379-4783-9297-47fa18a5b8d7" style="
                     filter: brightness(90%);
                     object-fit: cover; /* Do not scale the image */
                     object-position: top; /* Center the image within the element */
