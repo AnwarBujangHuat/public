@@ -18,7 +18,7 @@
                     object-fit: cover; /* Do not scale the image */
                     object-position: top; /* Center the image within the element */
                     width:100%;
-                    height: 80vh;
+                    height: 95vh;
                     display: inline-block;">
                     <div class="carousel-caption">
                         <h3>Los Angeles</h3>
@@ -32,7 +32,7 @@
                     object-fit: cover; /* Do not scale the image */
                     object-position: top; /* Center the image within the element */
                     width:100%;
-                    height: 80vh;
+                    height: 95vh;
                     display: inline-block;">
 
                     <div class="carousel-caption">
@@ -47,7 +47,7 @@
                     object-fit: cover; /* Do not scale the image */
                     object-position: top; /* Center the image within the element */
                     width:100%;
-                    height: 80vh;
+                    height: 95vh;
                     display: inline-block;">
                     <div class="carousel-caption">
                         <h3>New York</h3>
