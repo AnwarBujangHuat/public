@@ -21,7 +21,7 @@
 
 .navbar {
     height: 80px;
-    background-color:rgba(255,255,255,.60);
+    background-color:rgba(255,255,255,.10);
     border: none;
     color: white;
     z-index: 100;
@@ -47,7 +47,7 @@
     border: 1px solid #FF0000;
 }
 .navbar-default .navbar-nav > li > a:visited {
-    color: #FF0000;
+    color: #000000;
     text-decoration: none;
 }
 .navbar-default .navbar-nav > .active > a,

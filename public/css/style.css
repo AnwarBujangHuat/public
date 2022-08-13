@@ -140,3 +140,17 @@ h5 {
     padding: 10px;
     line-height: 2em;
 }
+.card-design{
+    -ms-flex: 1 1 auto;
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+.card-titlemy {
+    font-size: 16px;
+    margin-bottom: 0.75rem;
+}
