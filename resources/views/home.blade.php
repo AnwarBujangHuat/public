@@ -13,28 +13,30 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <div class="card-body" style="
+                <div class="card" style="
                        -ms-flex: 1 1 auto;
                       position: absolute;
+                      align-items: center;
+                      margin-right: 10%;
+                      margin-left: 10%;
                       border-radius: 6px;
-                      right: 50%;
+                      /*right: 50%;*/
                       bottom: 42%;
-                      left: 10%;
-                      z-index: 50;
+                      z-index: 20;
                       padding-top: 15px;
-                      padding-left: 30px;
+                      padding-left: 15px;
                       background: rgba(0,0,0,.30);">
-                    <h5 class="card-title" style="font-size: 35px; color: #ffffff">Public Bank Stock Price</h5>
-                    <p class="card-text" style="font-size: 60px; color: #ffffff; font-weight: bold">RM 4.6451</p>
-                    <p style="font-size: 16px; color: #ffffff;
+                    <h5 class="card-title" style="font-size: 35px; color: #ffffff;  padding-right: 40px;">Public Bank Stock Price</h5>
+                    <p class="card-text" style="font-size: 60px; color: #ffffff; font-weight: bold ;  padding-right: 40px;">RM 4.6451</p>
+                    <p style="font-size: 14px; color: #ffffff;
                        position:absolute;
                        padding-top: 20px;
-                       bottom:-10px;
-
+                       bottom:-5px;
+                        max-width: 60%;
                        ">Stock Price as of 06 Aug 2022 5:00PM</p>
 
                     <button type="button" class="btn pull-right" style="font-size: 14px; color: #ffffff; background-color: #FF0000">
-                        View More <i class="glyphicon glyphicon-chevron-right"></i>
+                        View Live Update <i class="glyphicon glyphicon-chevron-right"></i>
                     </button>
                     {{--                         <button href="#" class="btn pull-right" style="font-size: 14px; background-color: #FF0000; color: #ffffff"> Go somewhere--}}
                     {{--                             <i class="fa fa-home pull-left"></i> Home--}}
