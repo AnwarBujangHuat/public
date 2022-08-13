@@ -21,7 +21,7 @@
 
 .navbar {
     height: 80px;
-    background-color:rgba(255,255,255,.10);
+    background-color:rgba(255,255,255,.30);
     border: none;
     color: white;
     z-index: 100;
